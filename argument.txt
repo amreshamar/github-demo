@@ -1,1 +1,3 @@
-argumrnt file`
+ argumrnt file`
+
+ edited to check --staged
